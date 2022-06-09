@@ -11,4 +11,4 @@
 <br>
 
 <h3> :arrow_down:Abaixo tem o print de como fica meu projeto na tela de um computador :arrow_down:</h3>
-<img  src=""/>
+<img  src="https://github.com/larissasn/Primeiro-projeto-CSS/blob/master/We%20Care%20About%20Your%20Pet/img/print%20da%20tela.png?raw=true"/>
